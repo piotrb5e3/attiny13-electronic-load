@@ -6,6 +6,7 @@ The maximum safe power depends on the radiator used.
 
 ## Requirements
 * avr-gcc
+* avr-libc
 * an avr programmer
 
 ## Building
